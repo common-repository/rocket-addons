@@ -1,0 +1,516 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rocket Addon\n"
+"POT-Creation-Date: 2021-11-16 14:40+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Rizki Akmanda <rizkiakmanda@gmail.com>\n"
+"Language-Portfolio: themesawesome <admin@themesawesome.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__\n"
+"Language-Team: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: public/js\n"
+"X-Poedit-SearchPathExcluded-3: admin/js\n"
+
+#: admin/partials/rocket-addons-admin-display.php:32
+#: admin/partials/rocket-addons-for-elementor-addons.php:36
+msgid "General"
+msgstr ""
+
+#: admin/partials/rocket-addons-admin-display.php:36
+#: admin/partials/rocket-addons-for-elementor-addons.php:40
+msgid "Add-Ons"
+msgstr ""
+
+#: admin/partials/rocket-addons-admin-display.php:41
+#: admin/partials/rocket-addons-for-elementor-addons.php:45
+msgid "Account"
+msgstr ""
+
+#: admin/partials/rocket-addons-admin-display.php:46
+#: admin/partials/rocket-addons-for-elementor-addons.php:50
+msgid "Contact Us"
+msgstr ""
+
+#: admin/partials/rocket-addons-admin-display.php:51
+#: admin/partials/rocket-addons-for-elementor-addons.php:55
+msgid "Go Premium"
+msgstr ""
+
+#: admin/partials/rocket-addons-admin-display.php:69
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/rocket-addons-admin-display.php:71
+msgid "Get started by spending some time with the documentation to get familiar with Rocket Addons."
+msgstr ""
+
+#: admin/partials/rocket-addons-admin-display.php:73
+msgid "Knowledge Base"
+msgstr ""
+
+#: admin/partials/rocket-addons-admin-display.php:83
+msgid "Contribute to Rocket Addons"
+msgstr ""
+
+#: admin/partials/rocket-addons-admin-display.php:85
+msgid "You can contribute to make Rocket Addons better with reporting bugs, creating issue and help us make an improve."
+msgstr ""
+
+#: admin/partials/rocket-addons-admin-display.php:87
+msgid "Report a bug"
+msgstr ""
+
+#: admin/partials/rocket-addons-admin-display.php:98
+#: admin/partials/rocket-addons-for-elementor-addons.php:154
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin/partials/rocket-addons-admin-display.php:102
+#: admin/partials/rocket-addons-for-elementor-addons.php:158
+msgid "See Your Plan"
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:27
+msgid "Save Settings"
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:63
+msgid "GLOBAL CONTROL"
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:65
+msgid "Use the Buttons to Activate or Deactivate all the Elements of Essential Addons at once."
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:68
+msgid "Enable All"
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:71
+msgid "Disable All"
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:89
+#: admin/partials/rocket-addons-for-elementor-addons.php:105
+msgid "Conditional Visibility - "
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:90
+msgid "Single Condition"
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:102
+#: admin/partials/rocket-addons-for-elementor-addons.php:118
+#: admin/partials/rocket-addons-for-elementor-addons.php:134
+msgid "PRO"
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:106
+msgid "Multiple Condition"
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:121
+msgid "IF THEN - "
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:122
+msgid "Conditional Values"
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:137
+msgid "Total Cost - "
+msgstr ""
+
+#: admin/partials/rocket-addons-for-elementor-addons.php:138
+msgid "Calculator"
+msgstr ""
+
+#: class/extensions.php:21
+msgid "Elementor Pro Form"
+msgstr ""
+
+#: class/extensions.php:21
+msgid "Widgets"
+msgstr ""
+
+#: class/extensions.php:31 class/extensions.php:37
+msgid "Conditional Field for Elementor Pro Form"
+msgstr ""
+
+#: class/extensions.php:31 class/extensions.php:37
+msgid "Add Conditional Field to Elementor Pro Form"
+msgstr ""
+
+#: class/extensions.php:32 class/extensions.php:38
+msgid "Calculation Field for Elementor Pro Form"
+msgstr ""
+
+#: class/extensions.php:32 class/extensions.php:38
+msgid "Add Calculated Field to Elementor Pro Form"
+msgstr ""
+
+#: class/extensions.php:33 class/extensions.php:39 class/extensions.php:43
+msgid "Conditional Fields (old version) for Elementor Pro Form"
+msgstr ""
+
+#: class/extensions.php:33 class/extensions.php:39 class/extensions.php:43
+msgid "Conditionally display fields based on form field values"
+msgstr ""
+
+#: rocket-addons.php:166
+msgid "Upgrade Now!"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:30
+#: widget-addons/form/conditional-fields2.php:30
+msgid "Field Condition"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:496
+#: widget-addons/form/conditional-fields.php:507
+#: widget-addons/form/conditional-fields.php:518
+#: widget-addons/form/conditional-fields.php:696
+#: widget-addons/form/conditional-fields2.php:537
+#: widget-addons/form/conditional-fields2.php:712
+msgid "Single"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:500
+#: widget-addons/form/conditional-fields.php:511
+#: widget-addons/form/conditional-fields.php:700
+#: widget-addons/form/conditional-fields2.php:541
+#: widget-addons/form/conditional-fields2.php:716
+msgid "Multiple"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:544
+msgid "Visibility"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:548
+#: widget-addons/form/conditional-fields.php:671
+#: widget-addons/form/conditional-fields2.php:514
+#: widget-addons/form/conditional-fields2.php:687
+msgid "Always Visible"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:551
+#: widget-addons/form/conditional-fields.php:679
+#: widget-addons/form/conditional-fields2.php:517
+#: widget-addons/form/conditional-fields2.php:695
+msgid "Show IF"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:554
+#: widget-addons/form/conditional-fields.php:683
+#: widget-addons/form/conditional-fields2.php:520
+#: widget-addons/form/conditional-fields2.php:699
+msgid "Hide IF"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:568
+msgid "Condition(s)"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:579
+#: widget-addons/form/conditional-fields.php:709
+#: widget-addons/form/conditional-fields2.php:554
+#: widget-addons/form/conditional-fields2.php:566
+#: widget-addons/form/conditional-fields2.php:587
+#: widget-addons/form/conditional-fields2.php:608
+#: widget-addons/form/conditional-fields2.php:725
+msgid "Field ID"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:580
+#: widget-addons/form/conditional-fields.php:710
+#: widget-addons/form/conditional-fields2.php:555
+#: widget-addons/form/conditional-fields2.php:726
+msgid "name"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:591
+#: widget-addons/form/conditional-fields.php:717
+#: widget-addons/form/conditional-fields2.php:733
+msgid "Field IDs"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:593
+#: widget-addons/form/conditional-fields.php:719
+#: widget-addons/form/conditional-fields2.php:735
+msgid "name,message"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:594
+#: widget-addons/form/conditional-fields.php:720
+#: widget-addons/form/conditional-fields2.php:736
+msgid "Separate each field ID it with a comma"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:601
+#: widget-addons/form/conditional-fields.php:727
+#: widget-addons/form/conditional-fields2.php:743
+msgid "Operator"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:614
+#: widget-addons/form/conditional-fields.php:735
+#: widget-addons/form/conditional-fields2.php:630
+#: widget-addons/form/conditional-fields2.php:751
+msgid "Value"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:629
+#: widget-addons/form/conditional-fields.php:744
+#: widget-addons/form/conditional-fields2.php:645
+#: widget-addons/form/conditional-fields2.php:760
+msgid "Multiple Values"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:632
+#: widget-addons/form/conditional-fields2.php:648
+msgid "Separate the value by using pipe \"|\" in between with no space."
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:638
+#: widget-addons/form/conditional-fields.php:753
+#: widget-addons/form/conditional-fields2.php:654
+#: widget-addons/form/conditional-fields2.php:769
+msgid "Logic operator"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:641
+#: widget-addons/form/conditional-fields.php:756
+#: widget-addons/form/conditional-fields2.php:657
+#: widget-addons/form/conditional-fields2.php:772
+msgid "AND"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:645
+#: widget-addons/form/conditional-fields.php:760
+#: widget-addons/form/conditional-fields2.php:661
+#: widget-addons/form/conditional-fields2.php:776
+msgid "OR"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:655
+#: widget-addons/form/conditional-fields.php:771
+#: widget-addons/form/conditional-fields2.php:671
+#: widget-addons/form/conditional-fields2.php:784
+msgid "Disable only"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:667
+#: widget-addons/form/conditional-fields2.php:683
+msgid "Display mode"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:675
+#: widget-addons/form/conditional-fields2.php:691
+msgid "Always Hidden"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:693
+#: widget-addons/form/conditional-fields2.php:534
+#: widget-addons/form/conditional-fields2.php:709
+msgid "Multiple conditions"
+msgstr ""
+
+#: widget-addons/form/conditional-fields.php:745
+#: widget-addons/form/conditional-fields2.php:761
+msgid "One value per line, write them in same order of Fields IDs"
+msgstr ""
+
+#: widget-addons/form/conditional-fields2.php:496
+#: widget-addons/form/conditional-fields2.php:510
+#: widget-addons/form/conditional-fields2.php:575
+#: widget-addons/form/conditional-fields2.php:596
+#: widget-addons/form/conditional-fields2.php:617
+msgid "Condition"
+msgstr ""
+
+#: widget-addons/form/conditional-fields2.php:568
+#: widget-addons/form/conditional-fields2.php:589
+#: widget-addons/form/conditional-fields2.php:610
+msgid "field ID"
+msgstr ""
+
+#: widget-addons/form/ifthen.php:43
+msgid "Form Ifthen"
+msgstr ""
+
+#: widget-addons/form/ifthen.php:74
+msgid "Ifthen"
+msgstr ""
+
+#: widget-addons/form/ifthen.php:78
+msgid "If"
+msgstr ""
+
+#: widget-addons/form/ifthen.php:80 widget-addons/form/total.php:279
+msgid "[form:field_1] * [form:field_2] + 1.4"
+msgstr ""
+
+#: widget-addons/form/ifthen.php:96
+msgid "Conditional Comparison"
+msgstr ""
+
+#: widget-addons/form/ifthen.php:100
+msgid "="
+msgstr ""
+
+#: widget-addons/form/ifthen.php:101
+msgid ">="
+msgstr ""
+
+#: widget-addons/form/ifthen.php:102
+msgid "<="
+msgstr ""
+
+#: widget-addons/form/ifthen.php:103
+msgid ">"
+msgstr ""
+
+#: widget-addons/form/ifthen.php:104
+msgid "<"
+msgstr ""
+
+#: widget-addons/form/ifthen.php:105
+msgid "!="
+msgstr ""
+
+#: widget-addons/form/ifthen.php:122
+msgid "Conditional Value"
+msgstr ""
+
+#: widget-addons/form/ifthen.php:139
+msgid "Then"
+msgstr ""
+
+#: widget-addons/form/ifthen.php:156
+msgid "Else"
+msgstr ""
+
+#: widget-addons/form/ifthen.php:173
+msgid "Hide Ifthen"
+msgstr ""
+
+#: widget-addons/form/ifthen.php:175
+msgid "Do not display Ifthen field in frontend page."
+msgstr ""
+
+#: widget-addons/form/total.php:43 widget-addons/form/total.php:68
+#: widget-addons/form/total.php:273
+msgid "Total"
+msgstr ""
+
+#: widget-addons/form/total.php:75
+msgid "Input"
+msgstr ""
+
+#: widget-addons/form/total.php:82 widget-addons/form/total.php:222
+msgid "Alignment"
+msgstr ""
+
+#: widget-addons/form/total.php:86 widget-addons/form/total.php:154
+#: widget-addons/form/total.php:226
+msgid "Left"
+msgstr ""
+
+#: widget-addons/form/total.php:90 widget-addons/form/total.php:230
+msgid "Center"
+msgstr ""
+
+#: widget-addons/form/total.php:94 widget-addons/form/total.php:158
+#: widget-addons/form/total.php:234
+msgid "Right"
+msgstr ""
+
+#: widget-addons/form/total.php:104
+msgid "Opacity (%)"
+msgstr ""
+
+#: widget-addons/form/total.php:116
+msgid "Padding"
+msgstr ""
+
+#: widget-addons/form/total.php:125
+msgid "Margin"
+msgstr ""
+
+#: widget-addons/form/total.php:134 widget-addons/form/total.php:244
+msgid "Color"
+msgstr ""
+
+#: widget-addons/form/total.php:143 widget-addons/form/total.php:253
+msgid "Typography"
+msgstr ""
+
+#: widget-addons/form/total.php:150
+msgid "Position"
+msgstr ""
+
+#: widget-addons/form/total.php:169
+msgid "Width"
+msgstr ""
+
+#: widget-addons/form/total.php:188
+msgid "Border"
+msgstr ""
+
+#: widget-addons/form/total.php:195
+msgid "Border Radius"
+msgstr ""
+
+#: widget-addons/form/total.php:214
+msgid "Label"
+msgstr ""
+
+#: widget-addons/form/total.php:277
+msgid "Calculation"
+msgstr ""
+
+#: widget-addons/form/total.php:295
+msgid "Format Number"
+msgstr ""
+
+#: widget-addons/form/total.php:299
+msgid "Standard"
+msgstr ""
+
+#: widget-addons/form/total.php:300
+msgid "Standard Whole"
+msgstr ""
+
+#: widget-addons/form/total.php:301
+msgid "Integer"
+msgstr ""
+
+#: widget-addons/form/total.php:302
+msgid "Integer Whole"
+msgstr ""
+
+#: widget-addons/form/total.php:319
+msgid "Text Before"
+msgstr ""
+
+#: widget-addons/form/total.php:335
+msgid "Text After"
+msgstr ""
+
+#: widget-addons/form/total.php:351
+msgid "Hide Amount"
+msgstr ""
+
+#: widget-addons/form/total.php:353
+msgid "Do not display Amount value in frontend form, use its value only in Actions (like Email)"
+msgstr ""

@@ -1,0 +1,383 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.toplevel_page_rocket-addons-for-elementor .wp-menu-image.dashicons-before img {
+    width: 17px;
+    height: auto;
+    object-fit: cover;
+}
+
+.rdash-banner {
+    margin-bottom: 20px;
+}
+
+.rdash-banner img {
+    width: 100%
+}
+
+.rocket-admin-dashboard {
+    padding-right: 20px;
+}
+
+.rocket-head-banner {
+    background-color: #ffffff;
+    padding: 20px;
+    -webkit-box-shadow: 0px 10px 15px -2px rgb(85 82 82 / 20%);
+    -moz-box-shadow: 0px 10px 15px -2px rgba(85, 82, 82, 0.2);
+    box-shadow: 0px 10px 15px -2px rgb(85 82 82 / 20%);
+}
+
+.head-banner-inner {
+    display: flex;
+    align-items: center;
+}
+
+.head-banner-btn {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.rocket-btn {
+    padding: 15px 25px;
+    display: inline-block;
+    background: rgb(90, 41, 255);
+    background: linear-gradient( 90deg, rgba(90, 41, 255, 1) 40%, rgba(90, 41, 255, 0.6671043417366946) 95%, rgba(90, 41, 255, 0.559384) 100%);
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+.rocket-btn:hover {
+    background-color: #5A29FF;
+    color: #ffffff;
+    -webkit-box-shadow: 0px 0 15px 0px rgb(52 40 40 / 32%);
+    -moz-box-shadow: 0px 0 15px 0px rgb(52 40 40 / 32%);
+    box-shadow: 0px 0 15px 0px rgb(52 40 40 / 32%);
+    transition: all .3s ease;
+}
+
+.rocket-dashboard-contents {
+    margin-top: 40px;
+}
+
+.rocket-tab .nav {
+    display: flex;
+    column-gap: 10px;
+}
+
+.rocket-tab a {
+    padding: 15px 15px;
+    background-color: #f9f9f9;
+    color: #333;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.rocket-tab a:hover {
+    color: #5A29FF;
+}
+
+.rocket-tab a.active {
+    background-color: #ffffff;
+    color: #5A29FF;
+}
+
+.rocket-tab-content {
+    background-color: #ffffff;
+    padding: 30px;
+}
+
+.rocket-home-content {
+    display: -ms-grid;
+    display: grid;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: center;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 0px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+}
+
+.rhome-section.left-section {
+    display: -ms-grid;
+    display: grid;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: center;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+}
+
+.right-section.rhome-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rhome-wids {
+    background-color: #ffffff;
+    padding: 20px;
+    -webkit-box-shadow: 0px 0 15px 0px rgba(176, 176, 176, 0.2);
+    -moz-box-shadow: 0px 0 15px 0px rgba(176, 176, 176, 0.2);
+    box-shadow: 0px 0 15px 0px rgba(176, 176, 176, 0.2);
+}
+
+.rhome-wid-in {
+    display: flex;
+    column-gap: 20px;
+}
+
+.wid-in-con {
+    margin-top: 5px;
+}
+
+.rhome-wid-in .wid-title {
+    margin-top: 0;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    margin-bottom: 15px;
+}
+
+.rhome-wid-in i {
+    font-size: 24px;
+    color: #5A29FF;
+    background-color: rgb(90 41 255 / 9%);
+    height: auto;
+    padding: 13px;
+    display: block;
+    border-radius: 100%;
+}
+
+.wid-cont {
+    margin-top: 0;
+    min-height: 57px;
+}
+
+.wid-btn {
+    padding: 10px 25px;
+    display: inline-block;
+    background-color: #5A29FF;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    transition: all .3s ease;
+}
+
+.wid-btn:hover {
+    background-color: #5A29FF;
+    color: #ffffff;
+    transition: all .3s ease;
+    -webkit-box-shadow: 0px 0 15px 0px rgb(52 40 40 / 32%);
+    -moz-box-shadow: 0px 0 15px 0px rgb(52 40 40 / 32%);
+    box-shadow: 0px 0 15px 0px rgb(52 40 40 / 32%);
+}
+
+.rbutton-upgrade {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.rbutton-upgrade a {
+    padding: 15px 25px;
+    display: inline-block;
+    background-color: #ffffff;
+    color: #000000;
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0 15px 0px rgb(52 40 40 / 15%);
+    -moz-box-shadow: 0px 0 15px 0px rgb(52 40 40 / 15%);
+    box-shadow: 0px 0 15px 0px rgb(52 40 40 / 15%);
+}
+
+
+/* addons page */
+
+.addons-content-head {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.rsection-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 25px;
+}
+
+.rsection-main-control {
+    justify-content: center;
+    display: flex;
+    column-gap: 10px;
+    margin-top: 30px;
+}
+
+.rm-control {
+    padding: 15px 25px;
+    display: inline-block;
+    background-color: #5A29FF;
+    letter-spacing: 0.6px;
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+.rm-control.rcontrol-enable {
+    background-color: #29a6ff;
+}
+
+.rm-control.rcontrol-disable {
+    background-color: #ff2929;
+}
+
+.rocket-feature-control {
+    background-color: #ffffff;
+    -webkit-box-shadow: 0px 0 15px 0px rgba(176, 176, 176, 0.2);
+    -moz-box-shadow: 0px 0 15px 0px rgba(176, 176, 176, 0.2);
+    box-shadow: 0px 0 15px 0px rgba(176, 176, 176, 0.2);
+}
+
+.rocket-feature-control.disabled {
+    opacity: 0.6;
+}
+
+.rspacer {
+    min-width: 30px;
+}
+
+.rlabel {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    font-size: 10px;
+    font-weight: 700;
+    display: inline-block;
+    background: rgb(90, 41, 255);
+    background: linear-gradient( 90deg, rgba(90, 41, 255, 1) 40%, rgba(90, 41, 255, 0.6671043417366946) 95%, rgba(90, 41, 255, 0.559384) 100%);
+    color: #ffffff;
+    border-radius: 2px;
+    padding: 0px 6px;
+}
+
+.rocket-feature-control .rcontrol {
+    display: flex;
+    position: relative;
+    padding: 20px;
+}
+
+.floating-label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.rcontrol-title {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.rcontrol-switch {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked+.slider {
+    background-color: #21e36f;
+}
+
+input:focus+.slider {
+    box-shadow: 0 0 1px #21e36f;
+}
+
+input:checked+.slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+
+/* Rounded sliders */
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+.rhome-addons {
+    padding: 30px 0 60px;
+}

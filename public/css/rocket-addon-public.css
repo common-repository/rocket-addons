@@ -1,0 +1,20 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.disabled-normal {
+    opacity: 1 !important;
+}
+
+.site-title>a {
+    color: red !important;
+}
+
+.rocket-display-show {
+    display: inherit !important;
+}
+
+.rocket-display-hide {
+    display: none !important;
+}
